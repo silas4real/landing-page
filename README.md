@@ -1,7 +1,7 @@
 # Landing Page Project
 
 ## project detail
-  Manipulating the dom of this file with my knowledge of html, css and javaScript.
+  Manipulating the DOM.
 
 ## Completed project Objectives.
 1. Added a navbar to the webpage.
